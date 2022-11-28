@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.box-set{
+    background-color: rgb(194, 224, 250);
+    display: grid;
+    grid-template-columns: repeat(2,200px);
+    grid-template-rows: repeat(2,200px);
+    
+
+}
